@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 💻 I'm a **Software Developer** passionate about building interactive and responsive web applications.
-- 🎨 Expertise in **HTML, CSS, JavaScript, Tailwind CSS, ReactJS, WordPress , MYSQL , JAVA**.
+- 🎨 Expertise in **HTML, CSS, JavaScript, JAVA, Tailwind CSS, CSS , ReactJS, WordPress , MYSQL**.
 - 📈 Created **30+ healthcare websites**, enhancing user experience and engagement.
 
 

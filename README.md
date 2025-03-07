@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 💻 I'm a **Software Developer** passionate about building interactive and responsive web applications.
-- 🎨 Expertise in **HTML, CSS, JavaScript, Tailwind CSS, ReactJS, WordPress , MYSQL**.
+- 🎨 Expertise in **HTML, CSS, JavaScript, Tailwind CSS, ReactJS, WordPress , MYSQL , JAVA**.
 - 📈 Created **30+ healthcare websites**, enhancing user experience and engagement.
 
 
@@ -18,6 +18,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 ## 💻 Projects  

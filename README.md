@@ -23,9 +23,9 @@
 
 
 ## 💻 Projects  
-🔹 **Personal Projects & Experienced Work** – Explore my GitHub repositories to see my work in **front-end development, UI/UX design, and full-stack projects**.  
+🔹 **Personal Projects & Experienced Work** – Explore my Porflio Website to see my work in **front-end development, UI/UX design, and full-stack projects**.  
 
-👉 **[Visit My GitHub Profile](https://github.com/chandanpradhan029?tab=repositories)** for more!  
+👉 **[Visit My Porflio Website](https://chandaninsights.netlify.app/)** for more!  
 
 
 ### 🌍 [Healthcare Websites](#)
